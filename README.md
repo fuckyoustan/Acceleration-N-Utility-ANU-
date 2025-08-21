@@ -1,7 +1,7 @@
 ### ⚡ **What’s ANU?**
 
 ANU ain’t your average tweak, it’s a full blown **SurfaceFlinger dominator**.
-This Magisk module takes your Android rendering game and **throws it into overdrive**. Forget stutters, kill that lag, and flex your frames like a boss.
+This Magisk module takes your Android surfaceflinger and throws it into overdrive. Forget stutters, kill that lag, and flex your frames like a boss.
 
 ### 🔥 **What Does It Do?**
 
