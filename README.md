@@ -1,7 +1,3 @@
-# **Acceleration N’ Utility \[ANU]**
-
-*Because smooth is never enough.*
-
 ### ⚡ **What’s ANU?**
 
 ANU ain’t your average tweak, it’s a full blown **SurfaceFlinger dominator**.
